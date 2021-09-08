@@ -1,0 +1,8 @@
+.filterB button{
+    background-color : rgb(2, 115, 160);
+    color : white;
+    height: 30px;
+    border: none;
+    width: 150px;
+    margin: 50px 5px;
+}

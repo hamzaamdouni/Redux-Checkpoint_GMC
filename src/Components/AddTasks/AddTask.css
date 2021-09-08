@@ -1,0 +1,11 @@
+.Addform input{
+    width: 500px;
+    height: 50px;
+}
+.Addform button{
+    background-color : rgb(2, 115, 160);
+    color : white;
+    height: 50px;
+    border: none;
+    width: 100px;
+}

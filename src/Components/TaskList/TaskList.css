@@ -1,0 +1,10 @@
+.tasklist{
+        min-height: 100px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        color:  #ffffff;
+        font-size: 20px;
+}
